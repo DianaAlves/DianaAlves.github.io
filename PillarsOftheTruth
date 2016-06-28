@@ -1,0 +1,219 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Unbenanntes Dokument</title>
+
+
+<style>
+    #main
+    {         
+        position:fixed;
+        top:0px;
+        bottom:0px;
+        left:0px;
+        right:0px;
+        width: 100%;
+    }
+	#myimage {
+		position:absolute;
+		left:150px;
+		width:400px;
+		background-color:#ff0000;
+	}
+	
+	#myvideo {
+		position:absolute;
+		top:0px;opacity:0.0;
+		visibility:visible
+	}
+    #header
+    {
+        position:absolute;
+        width: 100%;
+        height: 40%;
+       /* min-height: 100%;*/
+        top:0px;
+        bottom:0px;
+        left:0px;
+        right:0px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0;
+    }
+    #portrait{
+        position: absolute;
+        top: 40%;
+        left: 20px;
+
+    }
+    table, th, td {
+    position: relative;
+    border-collapse: collapse;
+    top: 0px;
+    right: 0px;
+    border: thin solid white;
+    text-align: left;
+    color: white;
+    padding-bottom: 5px;
+    float:none;
+}
+    #menu1{
+        position: absolute;
+        left: 30px;
+        top: 700px;
+        width:170px;
+
+    }
+    #menu2{
+        position: absolute;
+        left: 25px;
+        top: 950px;
+    }
+    #news {
+    position: absolute;
+    top: 40%;
+    left: 350px;
+    width:900px;
+    float:left;
+    padding:10px;
+    color: white;
+    text-align: justify;
+}
+    #creepy{
+    position: absolute;
+    top: 1070px;
+    left: 350px;
+    padding:10px;
+
+    }
+    #news2 {
+    position: absolute;
+    top: 1500px;
+    left: 350px;
+    width:900px;
+    float:left;
+    padding:10px;
+    color: white;
+    text-align: justify;
+    }
+
+    #Comments {
+    position: absolute;
+    top: 2100px;
+    left: 350px;
+    width: 400px;
+    float: left;
+    padding: 10px;
+    color: white;
+    text-align: justify;
+    }
+    #video {
+    position: absolute;
+    top: 40%;
+    left: 350px;
+    z-index: 100;
+    opacity:0;
+    }
+    #button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: wait;
+}
+</style>
+
+</head>
+<body style="background-color:black">
+
+<img id ="header"src="capture.jpg" />
+
+
+<img id ="portrait"src="author.png"/>
+
+    <table id="menu1">
+        <tr>
+            <td style="color:blue;">About the Author</td>
+        <tr>
+            <td>
+                <p>John E. Mack, M.D., professor of psychiatry at Harvard Medical School and founder of the Center for Psychology & Social Change.</p>
+        </tr>
+    </table>
+
+
+    <div id="news">
+        
+        <h2><ins>THE SHOCKING TRUTH ABOUT ALIEN ABDUCTIONS</ins></h2>
+        <p>
+            <br></br>
+        <p>May 5th, 2014</p>
+
+        <p>By Guest Writer Prof. H</p>
+
+       <p> Reality - we all have one, we all believe it to be the absolute truth and seldom question it. But what if it isn't? What if something has been changing our reality without our knowledge? What if this is going on every day, but we ignore the proof? I know my reality has changed, has yours?</p>
+
+        We have all heard about the phenomenon of missing people. The numbers around the world are staggering indeed:
+
+        <p>Great Britain: 275.000 people go missing each year
+
+       <p> USA: 750.000 cases reported each year on average</p>
+
+       <p> Germany: 100.000 missing persons a year.</p>
+
+
+        Some of these people are actually found, but these are only a handful. Many that go missing are children who are sold to sex trades. Others are murdered. But still - a large majority is never being found and no one has any idea where they went. So where the hell <i>are</i> they?
+
+        This might be the time to take a look into alien abductions on a whole new level.
+
+        In the next few articles I will present you with powerful testimonies and video evidence from authoritative researchers and those with firsthand experiences so you can be better informed about this important subject that many choose to ignore. For now, consider this a warning.
+
+</p>
+        <!--<p></p>There are other investigators who have had longer experience with abductees, but because of the unusual or controversial nature of this material, I will depend whenever possible upon my own work so that I may take personal responsibility for the observations and experiences reported. In light of the uncertain ontological or "real" status of what abductees report has "happened" to them, there is an issue of what might be called the narrator's attitude or point of view. Rather than using quotation marks to indicate that something is what an abductee believes happened, I have related abductee accounts "straight", without quotation marks if, to the experiencer, what is being related really occurred. This does not presume a viewpoint on my part regarding the reality status of the event -- only agreement that the abductee is sincere and that to him or her what is reported really happened. </p>-->
+    </div>
+    <div id="news2">
+        <h3><ins>Who are the Abductees? Psychopathology and Personality </ins></h3>
+        <p>Few generalizations can be made at this time about this important question because of a paucity of research data and the unusual nature of the phenomenon. None of the abductees with whom I have worked have revealed obvious psychopathology, such as schizophrenic psychosis, severe depression, or other major psychiatric disturbances. Indeed, what has struck me most has been the "ordinariness" of the population, including in my sample, for example, a restaurant owner, secretaries, a prison guard, college students, and several housewives. Several demonstrated resentment, slight suspiciousness, a sense of victimization, and other post-traumatic symptomatology. Most seemed burdened in their lives by their abduction experiences.</p>
+
+        <p>Some, though not all, of the abductees I have seen report troubled relationships in childhood with one or both parents, alcoholism in the family, and childhood or adolescent abuse. Several report personal isolation, troubled adult relationships, and problems related to conceiving and bearing children and to parenting. But in other cases these disturbances are not present. In some cases, attitudes toward sexuality and decisions relating to having or not having children seemed to be affected by the abduction history. In no case so far have I found a way of tying the non-abduction aspects of these individuals' histories to their abduction stories, nor have I found convincing psychodynamic links between the specific narratives of the reported abduction experiences and other aspects of the personal histories or emotional lives of the abductees. </p>
+        
+        <p><a href="http://www.ufoevidence.org/documents/doc14.htm">Source</a></p>
+    </div>
+    <img id="creepy" src="pic4.png"/>
+    <img style=" position: relative;top: 400px; left: 1300px; padding:10px;" src="pic1.png" />
+    <img style ="position: relative; top: 590px; left: 910px;padding:10px;" src="pic2.png" />
+    <img style =" position: absolute;top: 880px; left: 1380px; padding:10px;" src="pic3.png" />
+    <div id="Comments">
+    <h4 style="color:whitesmoke;"><ins>Comments</ins></h4>
+        <br></br>
+        <p style="color:dimgray;">F.Mulder</p>
+        <img style="position:relative; width:100px; height:100px;bottom:30px; right: 110px;" src="mulder.jpg"/>
+        <p style="position:relative; bottom:140px">Nice Job I have my own show</p> 
+        <p style="position:relative; bottom:120px"><input onClick="alertBox()" id="button" type="button" value="Reply"></input></p>
+        <p style="color:dimgray;">M.Scully</p>
+        <img style="position:relative; width:110px; height:110px;bottom:30px; right: 110px;" src="scully.jpg" />
+        <p style="position:relative; bottom:140px">I'm still badass AF!</p>
+        <p style="position:relative; bottom:120px;"><input onClick ="alertBox()" id="button" type="button" value="Reply"></input></p>
+        <p style="color:dimgray;">Truth Seeker</p>
+        <img omouseover="start()" style="position:relative; width:110px; height:110px;bottom:30px; right: 120px;" src="anonymous.jpg" />
+        <p style="position:relative; bottom:140px">Please <a id ="link" href="https://th-koeln.sciebo.de/index.php/s/4u49NFb3vrkDDMs/download?path=%2FArt%20Department%2F2nd%20story&files=lonely%20tree.jpg">download<a> this to know the truth!</p>
+        <p style="position:relative; bottom:120px"><input onClick="alertBox()" id="button" type="button" value="Reply"></input></p>
+
+
+    </div>
+    <video id="video" onmouseover="StartVideo()">
+        <source src="Scotoma Teaser.mp4">
+    </video>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.5/TweenMax.min.js"></script>
+    <script src="JS.js"></script>
+</body>
+</html>
+
+
+
